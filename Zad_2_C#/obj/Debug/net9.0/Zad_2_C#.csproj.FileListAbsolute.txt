@@ -1,0 +1,15 @@
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.AssemblyInfoInputs.cache
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.AssemblyInfo.cs
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.csproj.CoreCompileInputs.cache
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.sourcelink.json
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/bin/Debug/net9.0/Zad_2_C#
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/bin/Debug/net9.0/Zad_2_C#.deps.json
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/bin/Debug/net9.0/Zad_2_C#.runtimeconfig.json
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/bin/Debug/net9.0/Zad_2_C#.dll
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/bin/Debug/net9.0/Zad_2_C#.pdb
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.dll
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/refint/Zad_2_C#.dll
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.pdb
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/Zad_2_C#.genruntimeconfig.cache
+/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_2_C#/obj/Debug/net9.0/ref/Zad_2_C#.dll
