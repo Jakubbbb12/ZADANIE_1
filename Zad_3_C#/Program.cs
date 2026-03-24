@@ -8,12 +8,12 @@ class Program
 
         double suma = 0;
 
-        for (int i = 1; i <= liczba_ocen; i++)
+        for (int i = 1; i <= liczba_ocen; i++) //wpisywanie ocen dopóki ich ilość nie wyniesie podanej wcześniej liczbie ocen
         {
             Console.Write($"Podaj ocenę {i}: ");
             double ocena = double.Parse(Console.ReadLine());
 
-            while (ocena < 1 || ocena > 6)
+            while (ocena < 1 || ocena > 6) //oceny muszą mieścić się w skali
             {
                 Console.Write("Ocena jest poza skalą (1-6). Podaj ponownie: ");
                 ocena = double.Parse(Console.ReadLine());
@@ -23,7 +23,7 @@ class Program
         }
 
         double srednia = suma / liczba_ocen;
-        Console.WriteLine($"\nŚrednia ocen: {srednia:F2}");
+        Console.WriteLine($"\nŚrednia ocen: {srednia:F2}"); //wyświetlanie liczby do 2 miejsc po przecinku
 
         if (srednia >= 3.0)
         {

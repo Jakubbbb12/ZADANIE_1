@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/1zadanie/1zadanie.csproj": {}
+    "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_1_C#/1zadanie.csproj": {}
   },
   "projects": {
-    "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/1zadanie/1zadanie.csproj": {
+    "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_1_C#/1zadanie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/1zadanie/1zadanie.csproj",
+        "projectUniqueName": "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_1_C#/1zadanie.csproj",
         "projectName": "1zadanie",
-        "projectPath": "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/1zadanie/1zadanie.csproj",
+        "projectPath": "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_1_C#/1zadanie.csproj",
         "packagesPath": "/Users/jakubmajcher/.nuget/packages/",
-        "outputPath": "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/1zadanie/obj/",
+        "outputPath": "/Users/jakubmajcher/Documents/GitHub/ZADANIE_1/Zad_1_C#/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jakubmajcher/.nuget/NuGet/NuGet.Config"

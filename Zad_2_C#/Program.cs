@@ -6,7 +6,9 @@ class Program
         Console.WriteLine("Konwerter temperatury. Wybierz kierunek przemiany: ");
         Console.WriteLine("Celsjusz -> Fahrenheit = KLIKNIJ C");
         Console.WriteLine("Fahrenheit -> Celsjusz = KLIKNIJ F");
-        string wybor = Console.ReadLine();
+        string wybor = Console.ReadLine().ToUpper(); 
+        //funkcja ToUpper sprawia, ze niezaleznie czy uzytkownik wpisze małą/wielką literą wybór, program zamieni znak na wielki
+        
         if (wybor == "C")
         {
             Console.Write("Podaj tempetarutę w Celsjuszach: ");

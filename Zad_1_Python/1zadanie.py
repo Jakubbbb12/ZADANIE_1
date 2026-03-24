@@ -1,4 +1,4 @@
-def dodaj(a,b):
+def dodaj(a,b): #definicje operacji kalkulatora
     return a + b
 
 def odejmij(a, b):
@@ -9,7 +9,7 @@ def mnoz(a, b):
 
 def dziel(a, b):
     if b == 0:
-        return "błąd 01: Dzielenie przez 0 jest niewykonalne"
+        return "Błąd 01: Dzielenie przez 0 jest niewykonalne."
     return a / b
 
 if __name__ == "__main__":
